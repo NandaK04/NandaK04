@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Nandadevi 👋
+I'm a first-year BS Data Science & AI student at IIT Madras Zanzibar, building my skills in Python, data analysis, and AI tools — one project at a time.
 
-<!--
-**NandaK04/NandaK04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 What I'm working on:
+*Learning SQL and Power BI to build interactive dashboards
+*Exploring data cleaning, preprocessing, and exploratory analysis with real-world datasets
+*Getting comfortable with the AI/ML ecosystem — LangChain, Hugging Face, and LLM APIs
 
-Here are some ideas to get you started:
+🌱 Featured projects:
+*Statistical Analysis Tool (NumPy) — computes mean, variance, std dev, and more across a matrix using NumPy
+*Iris Dataset — Data Cleaning & Preprocessing — cleaning, encoding, and scaling a classic dataset with Pandas and Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & tools:
+Python NumPy Pandas SQL (learning) Power BI (learning) Excel Git & GitHub
+
+📫 Reach me:
+LinkedIn: linkedin.com/in/Nanda K
+Email: nandadevikanavi@gmail.com
