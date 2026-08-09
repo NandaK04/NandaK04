@@ -11,8 +11,9 @@ I'm a first-year BS Data Science & AI student at IIT Madras Zanzibar, building m
 *Iris Dataset — Data Cleaning & Preprocessing — cleaning, encoding, and scaling a classic dataset with Pandas and Scikit-learn
 
 🛠️ Skills & tools:
-Python NumPy Pandas SQL (learning) Power BI (learning) Excel Git & GitHub
+Python,NumPy, Pandas, SQL (learning), Power BI (learning), Excel Git & GitHub.
 
 📫 Reach me:
+
 LinkedIn: linkedin.com/in/Nanda K
 Email: nandadevikanavi@gmail.com
