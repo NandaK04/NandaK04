@@ -16,4 +16,5 @@ Python,NumPy, Pandas, SQL (learning), Power BI (learning), Excel Git & GitHub.
 📫 Reach me:
 
 LinkedIn: linkedin.com/in/Nanda K
+
 Email: nandadevikanavi@gmail.com
